@@ -1,12 +1,3 @@
-Fast API : Mise en place d'une API pour Pokemons
-
-Tools
-Réalisé avec
-
-Python
-Fast API
-Uvicorn
-
 
 # 🏗️ Presentation du projet
 
